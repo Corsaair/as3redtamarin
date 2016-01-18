@@ -22,6 +22,19 @@ Usage:
     --debugger    Run redshell debugger.
 ```
 
+Why ?
+-----
+
+Because we can :).
+
+More seriously, here are the improvements
+  - simpler, cleaner, more user-friendly
+  - run faster than a Bash shell script
+  - remove the need to use "--"
+  - allow to pass arguments with spaces
+  - (more features to come)
+
+
 What's the Difference ?
 -----------------------
 
